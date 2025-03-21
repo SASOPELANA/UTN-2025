@@ -44,7 +44,7 @@ int main() {
     cin >> numeroArticulo;
   }
 
-  mostrarRecaudacion(recaudaciones);
+  mostrarRecaudacion(recaudaciones, 4, 10);
 
   return 0;
 }
